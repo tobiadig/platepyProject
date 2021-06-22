@@ -2,6 +2,7 @@ LICENCE
 README.md
 pyproject.toml
 setup.cfg
+src/platepy/AnalyticPlateSolutions.py
 src/platepy/__init__.py
 src/platepy/analyticPlateSolutions.py
 src/platepy/createModel.py

@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: platepy
-Version: 0.0.1
-Summary: A small example package
+Version: 0.0.2
+Summary: Create and compute plate models with FEM
 Home-page: https://github.com/tobiadig/platepyProject
 Author: Tobia Diggelmann
 Author-email: tobiadig@gmail.com
