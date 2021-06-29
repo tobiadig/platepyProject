@@ -1,1 +1,1 @@
-include src/tutorials/*
+recursive-include src tutorials/*

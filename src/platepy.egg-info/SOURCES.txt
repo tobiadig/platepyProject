@@ -19,3 +19,9 @@ src/platepy.egg-info/PKG-INFO
 src/platepy.egg-info/SOURCES.txt
 src/platepy.egg-info/dependency_links.txt
 src/platepy.egg-info/top_level.txt
+src/platepy/tutorials/demo1.py
+src/platepy/tutorials/demo2.py
+src/platepy/tutorials/tutorial1.py
+src/platepy/tutorials/tutorial2.py
+src/platepy/tutorials/tutorial3.py
+src/platepy/tutorials/tutorial4.py
