@@ -2,8 +2,8 @@
 
 Provides
 
-* Methods to easily model structural components for plates via the Gmsh API (see https://gmsh.info/).
-* Mesh generation via Gmsh API.
+* Methods to easily model structural components for plates via the Gmsh API (see https://gmsh.info/). Including slabs, walls, columns and downstand beams.
+* Automatic mesh generation with Gmsh.
 * FEM calculation of displacements, rotations, bending moments, shear forces and required bending moment resistance according to SIA262.
 * Results visualization with isolines, 3D plots or as text.
 * Analytical solutions according to Kirchhoff plate theory.
